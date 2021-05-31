@@ -1,3 +1,9 @@
+This is no longer required as Corsair finally fixed their software a while back, so I've archived the repo.
+
+Please check out my [other projects](https://github.com/sam-cross)!
+
+----
+
 # SBE for CUE.
 
 Sam's Backup Engine for CUE.
